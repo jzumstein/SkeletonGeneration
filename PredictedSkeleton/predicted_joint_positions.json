@@ -1,0 +1,605 @@
+[
+    {
+        "name": "Hips",
+        "position": [
+            4.876480746453609,
+            87.07823435746812,
+            1.1911375191162499
+        ],
+        "parent": null
+    },
+    {
+        "name": "Spine",
+        "position": [
+            -5.090578488021379,
+            93.24800954809231,
+            3.290839409920345
+        ],
+        "parent": "Hips"
+    },
+    {
+        "name": "Spine1",
+        "position": [
+            -2.5653450048443673,
+            93.89538020980207,
+            3.698531551950399
+        ],
+        "parent": "Spine"
+    },
+    {
+        "name": "Spine2",
+        "position": [
+            2.6128029351832183,
+            90.59533967398991,
+            2.1089986712550104
+        ],
+        "parent": "Spine1"
+    },
+    {
+        "name": "Spine3",
+        "position": [
+            -1.7157605751005747,
+            96.6622188278647,
+            4.025133915949404
+        ],
+        "parent": "Spine2"
+    },
+    {
+        "name": "Neck",
+        "position": [
+            0.4017577658962992,
+            95.89083672012714,
+            2.590991534931092
+        ],
+        "parent": "Spine3"
+    },
+    {
+        "name": "Head",
+        "position": [
+            -1.588911150661687,
+            89.28517762844055,
+            3.137115202902672
+        ],
+        "parent": "Neck"
+    },
+    {
+        "name": "LeftShoulder",
+        "position": [
+            1.7530652960391109,
+            94.26025218879158,
+            2.007005212016942
+        ],
+        "parent": "Spine3"
+    },
+    {
+        "name": "LeftArm",
+        "position": [
+            -4.97373602569661,
+            88.31675981203122,
+            3.567177822951038
+        ],
+        "parent": "LeftShoulder"
+    },
+    {
+        "name": "LeftForeArm",
+        "position": [
+            1.1816434579551647,
+            90.96079432174176,
+            5.129001982901087
+        ],
+        "parent": "LeftArm"
+    },
+    {
+        "name": "LeftHand",
+        "position": [
+            0.5387253578049176,
+            87.30335316714542,
+            1.9741113606294398
+        ],
+        "parent": "LeftForeArm"
+    },
+    {
+        "name": "LeftHandThumb1",
+        "position": [
+            5.0944378393964485,
+            86.38431919501998,
+            1.6287978778691894
+        ],
+        "parent": "LeftHand"
+    },
+    {
+        "name": "LeftHandThumb2",
+        "position": [
+            -0.6126966674083008,
+            90.11217260286573,
+            3.631834375134021
+        ],
+        "parent": "LeftHandThumb1"
+    },
+    {
+        "name": "LeftHandThumb3",
+        "position": [
+            0.2754891086828479,
+            85.32721439296647,
+            2.065170842551943
+        ],
+        "parent": "LeftHandThumb2"
+    },
+    {
+        "name": "LeftHandIndex1",
+        "position": [
+            3.286740996670204,
+            94.14373876973167,
+            1.995275534616546
+        ],
+        "parent": "LeftHand"
+    },
+    {
+        "name": "LeftHandIndex2",
+        "position": [
+            -1.2232186293913117,
+            86.17520977625645,
+            2.375291868149584
+        ],
+        "parent": "LeftHandIndex1"
+    },
+    {
+        "name": "LeftHandIndex3",
+        "position": [
+            2.6413608420332935,
+            96.08279341053135,
+            2.0634170013548783
+        ],
+        "parent": "LeftHandIndex2"
+    },
+    {
+        "name": "LeftHandMiddle1",
+        "position": [
+            -4.2854956213514015,
+            91.8332671264022,
+            3.211356558550733
+        ],
+        "parent": "LeftHand"
+    },
+    {
+        "name": "LeftHandMiddle2",
+        "position": [
+            -5.530986147106944,
+            86.32350097627713,
+            2.253226014769428
+        ],
+        "parent": "LeftHandMiddle1"
+    },
+    {
+        "name": "LeftHandMiddle3",
+        "position": [
+            -1.128382161719685,
+            88.70908488976038,
+            3.8153046004250477
+        ],
+        "parent": "LeftHandMiddle2"
+    },
+    {
+        "name": "LeftHandRing1",
+        "position": [
+            -1.97938110332165,
+            86.58783992701619,
+            2.9268784800626015
+        ],
+        "parent": "LeftHand"
+    },
+    {
+        "name": "LeftHandRing2",
+        "position": [
+            -1.2149102298690622,
+            82.88948595860343,
+            3.3011542846856887
+        ],
+        "parent": "LeftHandRing1"
+    },
+    {
+        "name": "LeftHandRing3",
+        "position": [
+            -0.9484044419659341,
+            91.52728585922294,
+            2.04831207340197
+        ],
+        "parent": "LeftHandRing2"
+    },
+    {
+        "name": "LeftHandPinky1",
+        "position": [
+            2.3843317431742435,
+            92.47277309315861,
+            3.9294913789838937
+        ],
+        "parent": "LeftHand"
+    },
+    {
+        "name": "LeftHandPinky2",
+        "position": [
+            -0.1827996243054093,
+            88.47639805286342,
+            4.655422977308216
+        ],
+        "parent": "LeftHandPinky1"
+    },
+    {
+        "name": "LeftHandPinky3",
+        "position": [
+            -0.7940027718655358,
+            92.65512308234405,
+            3.007206677148311
+        ],
+        "parent": "LeftHandPinky2"
+    },
+    {
+        "name": "RightShoulder",
+        "position": [
+            7.5214328322916515,
+            87.06559631201328,
+            3.7626662704875216
+        ],
+        "parent": "Spine3"
+    },
+    {
+        "name": "RightArm",
+        "position": [
+            2.099521063994729,
+            88.46564134750847,
+            3.239557756129752
+        ],
+        "parent": "RightShoulder"
+    },
+    {
+        "name": "RightForeArm",
+        "position": [
+            -0.10143304254467012,
+            82.8312777492479,
+            1.6741795952596874
+        ],
+        "parent": "RightArm"
+    },
+    {
+        "name": "RightHand",
+        "position": [
+            0.28396638497899573,
+            89.25209550945519,
+            2.994403975644012
+        ],
+        "parent": "RightForeArm"
+    },
+    {
+        "name": "RightHandThumb1",
+        "position": [
+            -2.2530805351625247,
+            86.63958877980623,
+            1.8583868070111826
+        ],
+        "parent": "RightHand"
+    },
+    {
+        "name": "RightHandThumb2",
+        "position": [
+            1.9986935238922854,
+            89.82433423427375,
+            2.6018178053646324
+        ],
+        "parent": "RightHandThumb1"
+    },
+    {
+        "name": "RightHandThumb3",
+        "position": [
+            7.071064145574468,
+            87.50437755682978,
+            2.1639083703696755
+        ],
+        "parent": "RightHandThumb2"
+    },
+    {
+        "name": "RightHandIndex1",
+        "position": [
+            4.659654452388793,
+            92.70321925532996,
+            2.5506906988808336
+        ],
+        "parent": "RightHand"
+    },
+    {
+        "name": "RightHandIndex2",
+        "position": [
+            7.037294870358664,
+            86.41963598870937,
+            3.098784143712411
+        ],
+        "parent": "RightHandIndex1"
+    },
+    {
+        "name": "RightHandIndex3",
+        "position": [
+            1.332927747247787,
+            87.473470945669,
+            2.8406102908375104
+        ],
+        "parent": "RightHandIndex2"
+    },
+    {
+        "name": "RightHandMiddle1",
+        "position": [
+            0.012869513100667973,
+            86.83723215733022,
+            1.9223076122435447
+        ],
+        "parent": "RightHand"
+    },
+    {
+        "name": "RightHandMiddle2",
+        "position": [
+            -4.822360289630922,
+            91.64081310087592,
+            2.410052453986328
+        ],
+        "parent": "RightHandMiddle1"
+    },
+    {
+        "name": "RightHandMiddle3",
+        "position": [
+            -0.9168579228481804,
+            87.74945343828601,
+            1.5505741075553487
+        ],
+        "parent": "RightHandMiddle2"
+    },
+    {
+        "name": "RightHandRing1",
+        "position": [
+            -0.28157389726200677,
+            91.39404287999237,
+            3.671226454753871
+        ],
+        "parent": "RightHand"
+    },
+    {
+        "name": "RightHandRing2",
+        "position": [
+            -2.6836845597697447,
+            93.06958857303823,
+            3.174768967817233
+        ],
+        "parent": "RightHandRing1"
+    },
+    {
+        "name": "RightHandRing3",
+        "position": [
+            1.3530566765590493,
+            86.62514606119392,
+            3.776866356251645
+        ],
+        "parent": "RightHandRing2"
+    },
+    {
+        "name": "RightHandPinky1",
+        "position": [
+            -6.55927479685252,
+            89.73215723607716,
+            3.288064212608816
+        ],
+        "parent": "RightHand"
+    },
+    {
+        "name": "RightHandPinky2",
+        "position": [
+            -1.7710521818890754,
+            89.02062734360804,
+            2.912244826801242
+        ],
+        "parent": "RightHandPinky1"
+    },
+    {
+        "name": "RightHandPinky3",
+        "position": [
+            2.8841063433560237,
+            90.5469288332056,
+            2.278752089147776
+        ],
+        "parent": "RightHandPinky2"
+    },
+    {
+        "name": "LeftUpLeg",
+        "position": [
+            -2.547606019637314,
+            86.23968500815236,
+            3.387019894159735
+        ],
+        "parent": "Hips"
+    },
+    {
+        "name": "LeftLeg",
+        "position": [
+            -5.327290022212722,
+            92.95803917183223,
+            2.2684393672153256
+        ],
+        "parent": "LeftUpLeg"
+    },
+    {
+        "name": "LeftFoot",
+        "position": [
+            2.7521129323841933,
+            91.73537777432685,
+            2.1719988468573703
+        ],
+        "parent": "LeftLeg"
+    },
+    {
+        "name": "LeftToeBase",
+        "position": [
+            -2.700880268395167,
+            93.11765941259968,
+            3.084755403875385
+        ],
+        "parent": "LeftFoot"
+    },
+    {
+        "name": "LeftToe_End",
+        "position": [
+            -5.224476491249234,
+            98.58504907697733,
+            2.355408988539466
+        ],
+        "parent": "LeftToeBase"
+    },
+    {
+        "name": "RightUpLeg",
+        "position": [
+            -8.5975911130285,
+            83.16620162052406,
+            4.292636189463
+        ],
+        "parent": "Hips"
+    },
+    {
+        "name": "RightLeg",
+        "position": [
+            -3.734155511520413,
+            94.54397454257963,
+            3.7060577905079715
+        ],
+        "parent": "RightUpLeg"
+    },
+    {
+        "name": "RightFoot",
+        "position": [
+            0.7439515907090453,
+            97.7235353117329,
+            2.0524114586549516
+        ],
+        "parent": "RightLeg"
+    },
+    {
+        "name": "RightToeBase",
+        "position": [
+            -2.126708018733126,
+            91.7329817657092,
+            1.6501610258055237
+        ],
+        "parent": "RightFoot"
+    },
+    {
+        "name": "RightToe_End",
+        "position": [
+            -0.8366556408954864,
+            85.66622194559694,
+            2.1305769720059526
+        ],
+        "parent": "RightToeBase"
+    },
+    {
+        "name": "LeftUpLegRoll",
+        "position": [
+            1.5215538154696446,
+            87.71813865899053,
+            2.87747810865262
+        ],
+        "parent": "LeftUpLeg"
+    },
+    {
+        "name": "LeftLegRoll",
+        "position": [
+            -0.7167977148959892,
+            85.80790312184355,
+            3.3152762813294103
+        ],
+        "parent": "LeftLeg"
+    },
+    {
+        "name": "LeftFootRoll",
+        "position": [
+            5.552700164279187,
+            89.58874780361458,
+            3.35509612232142
+        ],
+        "parent": "LeftFoot"
+    },
+    {
+        "name": "RightUpLegRoll",
+        "position": [
+            -2.0827196721751875,
+            85.58090963875702,
+            2.819302203233356
+        ],
+        "parent": "RightUpLeg"
+    },
+    {
+        "name": "RightLegRoll",
+        "position": [
+            -2.4418395094054404,
+            87.7001819277395,
+            3.557944257434368
+        ],
+        "parent": "RightLeg"
+    },
+    {
+        "name": "RightFootRoll",
+        "position": [
+            -1.323279046748322,
+            97.96859485979705,
+            2.2982246583796417
+        ],
+        "parent": "RightFoot"
+    },
+    {
+        "name": "Neck1",
+        "position": [
+            -4.359989868346332,
+            85.18889089546298,
+            2.0205578169790694
+        ],
+        "parent": "Neck"
+    },
+    {
+        "name": "Neck2",
+        "position": [
+            -6.661651950232255,
+            91.71587237083908,
+            3.7489160615607346
+        ],
+        "parent": "Neck1"
+    },
+    {
+        "name": "Neck3",
+        "position": [
+            2.9635432757694105,
+            87.29595980722063,
+            2.7038368702666586
+        ],
+        "parent": "Neck2"
+    },
+    {
+        "name": "LeftEye",
+        "position": [
+            0.35135134198474205,
+            91.19806834180397,
+            2.3061828987378004
+        ],
+        "parent": "Head"
+    },
+    {
+        "name": "RightEye",
+        "position": [
+            -2.3874817911765973,
+            87.98841596442121,
+            2.6249901810170133
+        ],
+        "parent": "Head"
+    },
+    {
+        "name": "Jaw",
+        "position": [
+            0.6989607916212464,
+            90.90018727042508,
+            3.4581223542120227
+        ],
+        "parent": "Head"
+    }
+]

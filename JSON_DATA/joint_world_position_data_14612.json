@@ -1,0 +1,650 @@
+{
+    "geometry": {
+        "vertex_count": 26790,
+        "bounds": {
+            "up": 174.54885864257812,
+            "down": -0.012171960435807705,
+            "left": -83.85499572753906,
+            "right": 83.88056945800781,
+            "forward": 18.657087326049805,
+            "back": -11.696561813354492
+        }
+    },
+    "joint_hierarchy": {
+        "name": "Hips",
+        "world_position": [
+            0.005804313346743584,
+            94.59806060791016,
+            1.106483817100525
+        ],
+        "children": [
+            {
+                "name": "Spine",
+                "world_position": [
+                    0.016152793297143177,
+                    104.58694064911285,
+                    0.5925808934882661
+                ],
+                "children": [
+                    {
+                        "name": "Spine1",
+                        "world_position": [
+                            0.016152793081228814,
+                            116.24061922292597,
+                            -0.007177837432959411
+                        ],
+                        "children": [
+                            {
+                                "name": "Spine2",
+                                "world_position": [
+                                    0.0161527928344694,
+                                    129.55911623211747,
+                                    -0.6926167695544492
+                                ],
+                                "children": [
+                                    {
+                                        "name": "Neck",
+                                        "world_position": [
+                                            0.016152792556865362,
+                                            144.5424231241473,
+                                            -1.4637350889647875
+                                        ],
+                                        "children": [
+                                            {
+                                                "name": "Head",
+                                                "world_position": [
+                                                    0.016152794743974783,
+                                                    154.58569703437075,
+                                                    1.3372188318714293
+                                                ],
+                                                "children": [
+                                                    {
+                                                        "name": "HeadTop_End",
+                                                        "world_position": [
+                                                            0.016152798962256194,
+                                                            173.95618040280195,
+                                                            6.739422976176621
+                                                        ],
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "LeftShoulder",
+                                        "world_position": [
+                                            5.906959944340711,
+                                            142.9791300875373,
+                                            -1.4385740351895557
+                                        ],
+                                        "children": [
+                                            {
+                                                "name": "LeftArm",
+                                                "world_position": [
+                                                    17.89168581179229,
+                                                    139.87735795839313,
+                                                    -1.3882462210653868
+                                                ],
+                                                "children": [
+                                                    {
+                                                        "name": "LeftForeArm",
+                                                        "world_position": [
+                                                            41.21359857682686,
+                                                            139.87721269092157,
+                                                            -1.3882189595663983
+                                                        ],
+                                                        "children": [
+                                                            {
+                                                                "name": "LeftHand",
+                                                                "world_position": [
+                                                                    66.36745103918027,
+                                                                    139.87706881374436,
+                                                                    -1.388205366695733
+                                                                ],
+                                                                "children": [
+                                                                    {
+                                                                        "name": "LeftHandThumb1",
+                                                                        "world_position": [
+                                                                            69.05612333547126,
+                                                                            138.64688421132476,
+                                                                            1.1267025078460775
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "LeftHandThumb2",
+                                                                                "world_position": [
+                                                                                    71.46147800966325,
+                                                                                    137.25813544023868,
+                                                                                    2.515437607140135
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "LeftHandThumb3",
+                                                                                        "world_position": [
+                                                                                            73.85656467489244,
+                                                                                            135.8753121596834,
+                                                                                            3.8982671967755014
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "LeftHandThumb4",
+                                                                                                "world_position": [
+                                                                                                    75.73820515518018,
+                                                                                                    134.7889374297338,
+                                                                                                    4.984624365116357
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "LeftHandIndex1",
+                                                                        "world_position": [
+                                                                            74.87910640124375,
+                                                                            139.51392910973354,
+                                                                            1.0172881481839982
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "LeftHandIndex2",
+                                                                                "world_position": [
+                                                                                    77.89292796973913,
+                                                                                    139.51391176033542,
+                                                                                    1.017336233437978
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "LeftHandIndex3",
+                                                                                        "world_position": [
+                                                                                            80.68864080034596,
+                                                                                            139.51389565993807,
+                                                                                            1.017353464646871
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "LeftHandIndex4",
+                                                                                                "world_position": [
+                                                                                                    83.14266046142485,
+                                                                                                    139.5138835038562,
+                                                                                                    1.0173855160859095
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "LeftHandMiddle1",
+                                                                        "world_position": [
+                                                                            74.72525579506068,
+                                                                            139.87706312759886,
+                                                                            -1.388197711265147
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "LeftHandMiddle2",
+                                                                                "world_position": [
+                                                                                    78.03266592514547,
+                                                                                    139.8770422291637,
+                                                                                    -1.3882098806425636
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "LeftHandMiddle3",
+                                                                                        "world_position": [
+                                                                                            81.09371330422817,
+                                                                                            139.87702305739913,
+                                                                                            -1.3882506480669066
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "LeftHandMiddle4",
+                                                                                                "world_position": [
+                                                                                                    83.73940820699296,
+                                                                                                    139.87700582822725,
+                                                                                                    -1.3883008569500908
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "LeftHandRing1",
+                                                                        "world_position": [
+                                                                            74.60260661203036,
+                                                                            139.80366989003258,
+                                                                            -3.437138026268432
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "LeftHandRing2",
+                                                                                "world_position": [
+                                                                                    77.41745439454446,
+                                                                                    139.8036509751224,
+                                                                                    -3.4371041676310794
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "LeftHandRing3",
+                                                                                        "world_position": [
+                                                                                            80.07956634292583,
+                                                                                            139.80363394402693,
+                                                                                            -3.437115468043302
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "LeftHandRing4",
+                                                                                                "world_position": [
+                                                                                                    82.4042374110286,
+                                                                                                    139.8036206993192,
+                                                                                                    -3.43713668305936
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "LeftHandPinky1",
+                                                                        "world_position": [
+                                                                            74.14390155754501,
+                                                                            139.532260416175,
+                                                                            -5.523733744789521
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "LeftHandPinky2",
+                                                                                "world_position": [
+                                                                                    76.48096537358093,
+                                                                                    139.53224688396128,
+                                                                                    -5.523747940539096
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "LeftHandPinky3",
+                                                                                        "world_position": [
+                                                                                            78.41338334777672,
+                                                                                            139.53223579733694,
+                                                                                            -5.523711488590996
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "LeftHandPinky4",
+                                                                                                "world_position": [
+                                                                                                    80.05612223573159,
+                                                                                                    139.53222743393175,
+                                                                                                    -5.523736235998066
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "RightShoulder",
+                                        "world_position": [
+                                            -5.874654359284149,
+                                            142.9791300340161,
+                                            -1.4888962287341485
+                                        ],
+                                        "children": [
+                                            {
+                                                "name": "RightArm",
+                                                "world_position": [
+                                                    -17.859361941193658,
+                                                    139.87728702254776,
+                                                    -1.539209808400875
+                                                ],
+                                                "children": [
+                                                    {
+                                                        "name": "RightForeArm",
+                                                        "world_position": [
+                                                            -41.17050390755441,
+                                                            139.87703115965215,
+                                                            -1.5391899000645861
+                                                        ],
+                                                        "children": [
+                                                            {
+                                                                "name": "RightHand",
+                                                                "world_position": [
+                                                                    -66.32853155474564,
+                                                                    139.87673625120956,
+                                                                    -1.53917243983349
+                                                                ],
+                                                                "children": [
+                                                                    {
+                                                                        "name": "RightHandThumb1",
+                                                                        "world_position": [
+                                                                            -69.05643958660188,
+                                                                            138.70488386886473,
+                                                                            1.0105612250568459
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "RightHandThumb2",
+                                                                                "world_position": [
+                                                                                    -71.48154142261865,
+                                                                                    137.30470247073336,
+                                                                                    2.410749888760008
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "RightHandThumb3",
+                                                                                        "world_position": [
+                                                                                            -73.7837809444446,
+                                                                                            135.97546103185385,
+                                                                                            3.7399773367992237
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "RightHandThumb4",
+                                                                                                "world_position": [
+                                                                                                    -75.62367579698386,
+                                                                                                    134.91316177420603,
+                                                                                                    4.802283191992892
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "RightHandIndex1",
+                                                                        "world_position": [
+                                                                            -74.74382142780885,
+                                                                            139.60207119803346,
+                                                                            0.862269212709333
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "RightHandIndex2",
+                                                                                "world_position": [
+                                                                                    -77.7757680812339,
+                                                                                    139.60203315496742,
+                                                                                    0.8622440555803147
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "RightHandIndex3",
+                                                                                        "world_position": [
+                                                                                            -80.61512063469104,
+                                                                                            139.6019998597625,
+                                                                                            0.8622715680271227
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "RightHandIndex4",
+                                                                                                "world_position": [
+                                                                                                    -83.03098745456168,
+                                                                                                    139.60196936796422,
+                                                                                                    0.8622655934464838
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "RightHandMiddle1",
+                                                                        "world_position": [
+                                                                            -74.7743488590973,
+                                                                            139.87665218749808,
+                                                                            -1.5391564163878855
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "RightHandMiddle2",
+                                                                                "world_position": [
+                                                                                    -78.036309417683,
+                                                                                    139.8766111362028,
+                                                                                    -1.5391919952715258
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "RightHandMiddle3",
+                                                                                        "world_position": [
+                                                                                            -81.06315820773528,
+                                                                                            139.8765746308375,
+                                                                                            -1.539233565130437
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "RightHandMiddle4",
+                                                                                                "world_position": [
+                                                                                                    -83.76702606712968,
+                                                                                                    139.87654254181234,
+                                                                                                    -1.5392489168844994
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "RightHandRing1",
+                                                                        "world_position": [
+                                                                            -74.84361248789548,
+                                                                            139.96291008338397,
+                                                                            -3.5769991816297138
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "RightHandRing2",
+                                                                                "world_position": [
+                                                                                    -77.52533397693631,
+                                                                                    139.96287590289384,
+                                                                                    -3.5769658097895873
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "RightHandRing3",
+                                                                                        "world_position": [
+                                                                                            -80.1312048105404,
+                                                                                            139.9628444527747,
+                                                                                            -3.576921067207821
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "RightHandRing4",
+                                                                                                "world_position": [
+                                                                                                    -82.32172314697507,
+                                                                                                    139.96281733231973,
+                                                                                                    -3.576901214449717
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "name": "RightHandPinky1",
+                                                                        "world_position": [
+                                                                            -74.00615052237447,
+                                                                            139.56361923720655,
+                                                                            -5.558247061285343
+                                                                        ],
+                                                                        "children": [
+                                                                            {
+                                                                                "name": "RightHandPinky2",
+                                                                                "world_position": [
+                                                                                    -76.4709107388408,
+                                                                                    139.5635895283407,
+                                                                                    -5.558282071782986
+                                                                                ],
+                                                                                "children": [
+                                                                                    {
+                                                                                        "name": "RightHandPinky3",
+                                                                                        "world_position": [
+                                                                                            -78.40600128054089,
+                                                                                            139.56356639186262,
+                                                                                            -5.558263051625224
+                                                                                        ],
+                                                                                        "children": [
+                                                                                            {
+                                                                                                "name": "RightHandPinky4",
+                                                                                                "world_position": [
+                                                                                                    -80.07641115882949,
+                                                                                                    139.56354711849016,
+                                                                                                    -5.558247548729027
+                                                                                                ],
+                                                                                                "children": []
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "LeftUpLeg",
+                "world_position": [
+                    8.773120424832609,
+                    89.0292845538277,
+                    0.10339219451655834
+                ],
+                "children": [
+                    {
+                        "name": "LeftLeg",
+                        "world_position": [
+                            8.828333824715934,
+                            48.217931374148826,
+                            0.4588744765419889
+                        ],
+                        "children": [
+                            {
+                                "name": "LeftFoot",
+                                "world_position": [
+                                    8.774452260990598,
+                                    10.42792343333975,
+                                    -2.50993454952369
+                                ],
+                                "children": [
+                                    {
+                                        "name": "LeftToeBase",
+                                        "world_position": [
+                                            7.818445178858445,
+                                            1.343365946034627,
+                                            10.935524730387883
+                                        ],
+                                        "children": [
+                                            {
+                                                "name": "LeftToe_End",
+                                                "world_position": [
+                                                    7.171065665241567,
+                                                    1.6711986774675547,
+                                                    17.728396849151064
+                                                ],
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "RightUpLeg",
+                "world_position": [
+                    -8.77312969340816,
+                    89.04749856931431,
+                    -0.1943276569947352
+                ],
+                "children": [
+                    {
+                        "name": "RightLeg",
+                        "world_position": [
+                            -8.828476114817699,
+                            48.27742443470493,
+                            -0.3150300762037833
+                        ],
+                        "children": [
+                            {
+                                "name": "RightFoot",
+                                "world_position": [
+                                    -8.774348673613943,
+                                    10.42789718496352,
+                                    -2.5086262076116137
+                                ],
+                                "children": [
+                                    {
+                                        "name": "RightToeBase",
+                                        "world_position": [
+                                            -7.818439957880208,
+                                            1.3423481597903706,
+                                            11.131254171472747
+                                        ],
+                                        "children": [
+                                            {
+                                                "name": "RightToe_End",
+                                                "world_position": [
+                                                    -7.1711026060241725,
+                                                    1.6696860600290313,
+                                                    18.06474212356512
+                                                ],
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
