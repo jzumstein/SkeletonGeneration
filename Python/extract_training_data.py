@@ -3,6 +3,8 @@ import json
 import os
 import random
 
+#TODO: Improve accuracy to ensure correct joint skeletal placement.
+
 def get_geometry_data(geometry):
     """
     Collects the total vertex count and bounding box information for the geometry.
