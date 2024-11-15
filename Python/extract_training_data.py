@@ -4,6 +4,7 @@ import os
 import random
 
 #TODO: Improve accuracy to ensure correct joint skeletal placement.
+#TODO: Search the viability of a recursive model
 
 def get_geometry_data(geometry):
     """
