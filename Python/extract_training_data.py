@@ -12,6 +12,7 @@ def get_geometry_data(geometry):
     """
     vertices = cmds.ls(f"{geometry}.vtx[*]", flatten=True)
     vertex_count = len(vertices)
+    threshhold_radius = (5, 5, 5)
     
     # Initialize bounds with extreme values
     bounds = {
