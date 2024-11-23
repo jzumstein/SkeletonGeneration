@@ -11,3 +11,6 @@ def apply_joint_positions(joint_positions_file):
 
 # Example usage:
 # apply_joint_positions("predicted_joint_positions.json")
+
+
+# Incorporate iterations based on vertex weight influence of selected joints
